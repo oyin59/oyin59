@@ -37,7 +37,7 @@
 <a href="mailto:aoyinlola20@gmail.com">
   <img src="https://img.shields.io/badge/Email-Message%20me-66a6ff?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://[linkedin.com/in/your-profile](https://www.linkedin.com/in/oyinlola-arowolo-5b2241332/)" >
+<a href="https://www.linkedin.com/in/oyinlola-arowolo-5b2241332/" >
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
