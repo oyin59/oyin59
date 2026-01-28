@@ -1,55 +1,121 @@
-### 👋🏽 Hi, I’m Oyinlola!
+<div align="center">
 
-🎓 **Computer Science Student** — learning, building, and tinkering with creative tech.<br>
-🎨 **Front-End Developer** — I design clean, responsive, user-focused interfaces.<br>
-💡 **Creative Technologist** — I love when code + design tell a story.<br>
-🚀 **Builder** — small, shippable projects > eternal “coming soon.”<br>
-🤝 **Collaborator** — open to internships, collabs, and cool problems.
+<!-- Banner -->
+<img src="YOUR_BANNER_IMAGE_URL" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 10px;"/>
 
----
+# ✧˖° Welcome to Oyinlola's GitHub °˖✧
 
-## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Front-End+Developer;Creative+Technologist;Omoyin+Jewelry+Creator;Photographer" alt="Typing SVG" />
 
-### 🛠️ Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+<br>
+<br>
 
----
+<h2>⋆｡˚ ✧ Explore My Work ✧ ˚｡⋆</h2>
 
-## 📚 Learning Now
-![Django](https://img.shields.io/badge/Django-Deep%20Dive-092e20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-Schema%20Design-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Accessibility](https://img.shields.io/badge/UX-Accessibility-0A66C2?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/⟡_VIEW_MY_PORTFOLIO_⟡-1E90FF?style=for-the-badge&logoColor=white&labelColor=0A52A0)](https://portfolio-mztz.vercel.app/)
 
----
+</div>
 
-## 📫 Contact
-<a href="mailto:aoyinlola20@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Message%20me-66a6ff?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/oyinlola-arowolo-5b2241332/" >
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br>
 
+## ✧˖° About Me °˖✧
 
----
+<!-- Side Image -->
+<img align="right" src="YOUR_PROFILE_IMAGE_URL" width="300" style="border: none; margin-left: 20px; margin-top: 40px; border-radius: 15px;"/>
 
-<details>
-  <summary>✨ Fun bits</summary>
-  
-- I believe pixels should have personality.
-- “Ship > perfect” — but we still make it cute.
-- Currently balancing final-year chaos with creative experiments.
-</details>
+Hi! I'm **Oyinlola Arowolo**, a final-year Computer Science student. I love building **beautiful, user-focused web experiences**, creating **Omoyin jewelry**, and capturing moments through **photography**.
 
-[![](https://visitcount.itsvg.in/api?id=oyin59&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+
+✦ Front-End Developer & Creative Technologist  
+✦ Building **small, shippable projects > eternal coming soon**  
+✦ Passionate about **clean design, accessibility & intuitive UI**  
+✦ Always learning **React, Django, Figma & UI/UX trends**  
+✦ Favorite color: **Blue**
+
+<br>
+<br>
+<br>
+
+<br clear="right"/>
+
+<div align="center">
+
+## ⋆｡˚ Tech Stack & Tools ˚｡⋆
+
+![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1E90FF?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1E90FF?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1E90FF?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1E90FF?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=oyin59&show_icons=true&hide_border=true&bg_color=00000000&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&include_all_commits=true" width="49%" alt="Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyin59&layout=compact&hide_border=true&bg_color=00000000&title_color=1E90FF&text_color=1E90FF&langs_count=8" width="40%" alt="Languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oyin59&bg_color=00000000&color=1E90FF&line=1E90FF&point=87CEFA&area=true&hide_border=true&area_color=ADD8E6" width="100%" alt="Activity Graph"/>
+
+<br>
+
+## ✧˖° Fun Facts & Hobbies °˖✧
+
+<!-- Fun Image -->
+<img align="right" src="YOUR_HOBBY_IMAGE_URL" width="300" style="border: none; margin-left: 20px; border-radius: 15px;"/>
+
+<div align="left">
+
+⋆｡˚ **Favorite color:** Blue ◇  
+⋆｡˚ **Design philosophy:** Clean, intuitive, user-focused ✧  
+⋆｡˚ **Creative hobbies:** Omoyin jewelry, photography, web design ◈  
+⋆｡˚ **Tools I love:** VS Code, Figma, Blender ⟡  
+⋆｡˚ **When I'm not coding:** Capturing moments, experimenting creatively ◇  
+⋆｡˚ **Current vibe:** Pixels with personality ✧  
+⋆｡˚ **Always learning:** UI/UX, new frameworks & design trends ◈
+
+</div>
+
+<br>
+<br>
+<br>
+
+<br clear="right"/>
+
+<div align="center">
+
+<h2>✧˖°⭒ ⋆｡˚ Let's Connect ˚｡⋆ ⭒°˖✧</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyinlola-arowolo-5b2241332/)
+[![GitHub](https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oyin59)
+[![Email](https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aoyinlola20@gmail.com)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=oyin59&color=1E90FF&style=for-the-badge&label=Profile+Views" />
+
+<br>
+
+*✦ Code with creativity, design with purpose ✦*
+
+</div>
