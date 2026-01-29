@@ -13,7 +13,7 @@
 
 <h2>⋆｡˚ ✧ Explore My Work ✧ ˚｡⋆</h2>
 
-[![Portfolio](https://img.shields.io/badge/⟡_VIEW_MY_PORTFOLIO_⟡-1E90FF?style=for-the-badge&logoColor=white&labelColor=0A52A0)](https://portfolio-mztz.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/⟡_VIEW_MY_PORTFOLIO_⟡-1E90FF?style=for-the-badge&logoColor=white&labelColor=0A52A0)](http://oyin59.github.io/)
 
 </div>
 
