@@ -119,3 +119,11 @@ Hi! I'm **Oyinlola Arowolo**, a final-year Computer Science student. I love buil
 *✦ Code with creativity, design with purpose ✦*
 
 </div>
+---
+
+### 💙 Credits & Inspiration
+
+This README layout was inspired by the GitHub profile of  
+[@itsHanna27](https://github.com/itsHanna27).  
+Adapted and personalized for my own projects and tech stack.
+
