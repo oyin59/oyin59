@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://i.ibb.co/SX0SvKDG/oyingit.jpg" width="100%" style="max-height: 250px; object-fit: cover;"/>
+[<img src="https://github.com/oyin59/oyin59/blob/main/oyingit.png" width="100%" style="max-height: 250px; object-fit: cover;"/>](https://github.com/oyin59/oyin59/blob/main/oyingit.png)
 # ✧˖° Welcome to Oyinlola's GitHub °˖✧
 
 <!-- Typing Animation -->
@@ -21,9 +21,9 @@
 ## ✧˖° About Me °˖✧
 
 <!-- Side Image -->
-<img align="right" src="YOUR_PROFILE_IMAGE_URL" width="300" style="border: none; margin-left: 20px; margin-top: 40px; border-radius: 15px;"/>
+<img align="right" src="https://github.com/oyin59/oyin59/blob/main/Stitch%F0%9F%92%99.jpg" width="300" style="border: none; margin-left: 20px; margin-top: 40px; border-radius: 15px;"/>
 
-Hi! I'm **Oyinlola Arowolo**, a final-year Computer Science student. I love building **beautiful, user-focused web experiences**, creating **Omoyin jewelry**, and capturing moments through **photography**.
+Hi! I'm **Oyinlola Arowolo**, a final-year Computer Science student. I love building **beautiful, user-focused web experiences**, creating **Omoyin jewellery**, and capturing moments through **photography**.
 
 <br>
 
@@ -81,13 +81,13 @@ Hi! I'm **Oyinlola Arowolo**, a final-year Computer Science student. I love buil
 ## ✧˖° Fun Facts & Hobbies °˖✧
 
 <!-- Fun Image -->
-<img align="right" src="YOUR_HOBBY_IMAGE_URL" width="300" style="border: none; margin-left: 20px; border-radius: 15px;"/>
+<img align="right" src="https://github.com/oyin59/oyin59/blob/main/dolphin.jpg" width="300" style="border: none; margin-left: 20px; border-radius: 15px;"/>
 
 <div align="left">
 
 ⋆｡˚ **Favorite color:** Blue ◇  
 ⋆｡˚ **Design philosophy:** Clean, intuitive, user-focused ✧  
-⋆｡˚ **Creative hobbies:** Omoyin jewelry, photography, web design ◈  
+⋆｡˚ **Creative hobbies:** Omoyin jewellery, photography, web design ◈  
 ⋆｡˚ **Tools I love:** VS Code, Figma, Blender ⟡  
 ⋆｡˚ **When I'm not coding:** Capturing moments, experimenting creatively ◇  
 ⋆｡˚ **Current vibe:** Pixels with personality ✧  
