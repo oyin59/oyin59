@@ -75,7 +75,7 @@ Hi! I'm **Oyinlola Arowolo**, a final-year Computer Science student. I love buil
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oyin59&bg_color=00000000&color=1E90FF&line=1E90FF&point=87CEFA&area=true&hide_border=true&area_color=ADD8E6" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oyin59&bg_color=00000000&color=1E90FF&line=1E90FF&point=87CEFA&area=true&hide_border=true&area_color=ADD8E6&cache_seconds=1800" />
 
 <br>
 
