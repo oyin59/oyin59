@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 10px;"/>
-
+<img src="https://i.ibb.co/SX0SvKDG/oyingit.jpg" width="100%" style="max-height: 250px; object-fit: cover;"/>
 # ✧˖° Welcome to Oyinlola's GitHub °˖✧
 
 <!-- Typing Animation -->
