@@ -10,7 +10,6 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/⟡_VIEW_MY_PORTFOLIO_⟡-1E90FF?style=for-the-badge\&labelColor=0A52A0)](http://oyin59.github.io/)
 
 </div>
 
