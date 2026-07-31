@@ -34,7 +34,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/oyinlola-arowolo-52241332)
-[![Pinterest](https://img.shields.io/badge/Pinterest-1E90FF?style=for-the-badge\&logo=pinterest\&logoColor=white)](https://pinterest.com/estaarowolo)
 [![Email](https://img.shields.io/badge/Email-1E90FF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:oyinarowolo59@gmail.com)
 
 </div>
